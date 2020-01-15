@@ -8,6 +8,7 @@ An adapter designed to work with [casbin-rs](https://github.com/casbin/casbin-rs
 Add it to `Cargo.toml`
 
 ```
+casbin = { version = "0.1.1" }
 diesel_adapter = { version = "0.1.0", features = ["postgres"] }
 ```
 
